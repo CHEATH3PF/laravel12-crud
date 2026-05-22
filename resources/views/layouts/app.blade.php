@@ -19,7 +19,7 @@
                         <a href="https://www.allphptricks.com/simple-laravel-12-crud-application-tutorial/"><strong>Tutorial Link</strong></a>
                     </p>
                     <p>
-                        For More Web Development Tutorials Visit: <a href="https://www.allphptricks.com/"><strong>AllPHPTricks.com</strong></a>
+                        Heppy to be Here <a href="https://www.allphptricks.com/"><strong>cheathm.con</strong></a>
                     </p>
                 </div>
             </div>
