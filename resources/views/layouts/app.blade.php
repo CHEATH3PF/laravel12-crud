@@ -11,7 +11,7 @@
 <body>   
 
     <div class="container">
-        <h3 class=" mt-3">CHEATHM- -CRUD- CICD Auto Deployment <a href="#/">cheathdevops</a></h3>
+        <h3 class=" mt-3">CHEATHM- -CRUD- CICD Auto Deployment From Git Interface <a href="#/">cheathdevops</a></h3>
             @yield('content')
             <div class="row justify-content-center text-center mt-3">
                 <div class="col-md-12">
